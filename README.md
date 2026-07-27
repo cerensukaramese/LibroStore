@@ -96,6 +96,3 @@ Demo video: https://youtu.be/mDnQuYaiwMo
 - Automated API and UI tests
 - Deployment configuration
 
-## Author
-
-Cerensu Karameşe
